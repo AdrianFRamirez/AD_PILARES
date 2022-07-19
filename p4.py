@@ -8,4 +8,5 @@ sum=num1+num2+num3
 
 prom = sum/3
 
+
 print("La media es: ", prom)
